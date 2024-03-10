@@ -69,10 +69,10 @@
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 
-![Xamarin]
-![Unity]
-![Strapi]
-![Ruby]
+![Xamarin](https://img.shields.io/badge/Xamarin-3498DB?style=for-the-badge&labelColor=black&logo=xamarin&logoColor=3498DB)
+![Unity](https://img.shields.io/badge/Unity-000000?style=for-the-badge&labelColor=black&logo=unity&logoColor=FFFFFF)
+![Strapi](https://img.shields.io/badge/Strapi-2E7EEA?style=for-the-badge&labelColor=black&logo=strapi&logoColor=2E7EEA)
+![Ruby](https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&labelColor=black&logo=ruby&logoColor=CC342D)
 
 
 
