@@ -1,6 +1,8 @@
-### Hi there 👋
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=RonanWaldronSoftware" />
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ronanwaldronsoftware&show_icons=true&locale=en&layout=compact" alt="ronanwaldronsoftware" /></p>
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Ronan+Waldron!;" />
+</h1>
 
 ## Languages
 - <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="C#" width="20" height="20"> C#
