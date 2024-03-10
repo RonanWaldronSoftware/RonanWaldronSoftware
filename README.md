@@ -33,11 +33,11 @@
 ## Languages
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&labelColor=black&logo=c-sharp&logoColor=239120)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&labelColor=black&logo=cplusplus&logoColor=00599C)
-![C]
-![Java]
-![Python]
-![TSX]
-![JSX]
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&labelColor=black&logo=c&logoColor=00599C)
+![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&labelColor=black&logo=java&logoColor=007396)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&labelColor=black&logo=python&logoColor=3776AB)
+![TSX](https://img.shields.io/badge/TSX-3178C6?style=for-the-badge&labelColor=black&logo=typescript&logoColor=3178C6)
+![JSX](https://img.shields.io/badge/JSX-61DAFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DAFB)
 ![Javascript](https://img.shields.io/badge/Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)
 ![Typescript](https://img.shields.io/badge/Typescript-007acc?style=for-the-badge&labelColor=black&logo=typescript&logoColor=007acc)
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
