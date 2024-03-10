@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ronanwaldronsoftware&show_icons=true&locale=en&layout=compact" alt="ronanwaldronsoftware" /></p>
+
 ## Languages
 <span><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="C#" width="20" height="20"> C#</span>
 <span><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="20" height="20"> C++</span>
