@@ -44,22 +44,22 @@
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
 ## Technologies
-![Kafka]
-![Docker]
-![Selenium]
-![JUnit]
-![Postman]
-![Jira]
-![MySQL]
+![Kafka](https://img.shields.io/badge/Kafka-231F20?style=for-the-badge&labelColor=black&logo=apache-kafka&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&labelColor=black&logo=docker&logoColor=2496ED)
+![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&labelColor=black&logo=selenium&logoColor=43B02A)
+![JUnit](https://img.shields.io/badge/JUnit-25A162?style=for-the-badge&labelColor=black&logo=junit5&logoColor=25A162)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&labelColor=black&logo=postman&logoColor=FF6C37)
+![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&labelColor=black&logo=jira&logoColor=0052CC)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&labelColor=black&logo=mysql&logoColor=4479A1)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![AWS]
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&labelColor=black&logo=amazon-aws&logoColor=FF9900)
 
 
 ## Frameworks
-![Ionic]
-![Angular]
-![Bootstrap]
-![Spring Boot]
+![Ionic](https://img.shields.io/badge/Ionic-3880FF?style=for-the-badge&labelColor=black&logo=ionic&logoColor=3880FF)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&labelColor=black&logo=angular&logoColor=DD0031)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&labelColor=black&logo=bootstrap&logoColor=7952B3)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&labelColor=black&logo=spring-boot&logoColor=6DB33F)
 ![React](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)
 ![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Next.js](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
