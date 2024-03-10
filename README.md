@@ -32,16 +32,34 @@
 
 ## Languages
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&labelColor=black&logo=c-sharp&logoColor=239120)
+![C++]
+![C]
+![Java]
+![Python]
+![TSX]
+![JSX]
 ![Javascript](https://img.shields.io/badge/Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)
 ![Typescript](https://img.shields.io/badge/Typescript-007acc?style=for-the-badge&labelColor=black&logo=typescript&logoColor=007acc)
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
 ## Technologies
+![Kafka]
+![Docker]
+![Selenium]
+![JUnit]
+![Postman]
+![Jira]
+![MySQL]
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![AWS]
 
 
 ## Frameworks
+![Ionic]
+![Angular]
+![Bootstrap]
+![Spring Boot]
 ![React](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)
 ![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Next.js](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
@@ -51,6 +69,33 @@
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 
+![Xamarin]
+![Unity]
+![Strapi]
+![Ruby]
+
+
+
+<p align="center">
+  <a href="https://github.com/ronanwaldronsoftware">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=ronanwaldronsoftware&theme=radical&border=7F3FBF&background=0D1117" alt="Streak"/>
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/ronanwaldronsoftware">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ronanwaldronsoftware&theme=radical" alt="Contributions"/>
+  </a>
+</p>
+
+<a> 
+    <a href="https://github.com/ronanwaldronsoftware"><img alt="Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=ronanwaldronsoftware&show_icons=true&count_private=true&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
+  <a href="https://github.com/ronanwaldronsoftware"><img alt="Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=ronanwaldronsoftware&langs_count=8&layout=compact&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
+  <br/>
+</a>
+
+
+![Graph](https://github-readme-activity-graph.vercel.app/graph?username=ronanwaldronsoftware&custom_title=GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true)
 
 
 
