@@ -3,8 +3,8 @@
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ronanwaldronsoftware&show_icons=true&locale=en&layout=compact" alt="ronanwaldronsoftware" /></p>
 
 ## Languages
-<span><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="C#" width="20" height="20"> C#</span>
-<span><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="20" height="20"> C++</span>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="C#" width="20" height="20"> C#
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="20" height="20"> C++
 <span><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="20" height="20"> C</span>
 <span><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="20" height="20"> Java</span>
 <span><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="20" height="20"> Python</span>
