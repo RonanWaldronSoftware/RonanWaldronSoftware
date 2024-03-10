@@ -1,36 +1,35 @@
 ### Hi there 👋
 
-
-  ## Languages
-- ![C#](https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg) C#
-- ![C++](https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg) C++
-- ![C](https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg) C
-- ![Java](https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg) Java
-- ![Python](https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg) Python
-- ![HTML](https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg) HTML
-- ![CSS](https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg) CSS
-- ![JavaScript](https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg) JavaScript
-- ![TypeScript](https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg) TypeScript
-- ![TSX](https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg) TSX
-- ![JSX](https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg) JSX
+## Languages
+<span><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="C#" width="20" height="20"> C#</span>
+<span><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="20" height="20"> C++</span>
+<span><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="20" height="20"> C</span>
+<span><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="20" height="20"> Java</span>
+<span><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="20" height="20"> Python</span>
+<span><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML" width="20" height="20"> HTML</span>
+<span><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS" width="20" height="20"> CSS</span>
+<span><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="20" height="20"> JavaScript</span>
+<span><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="20" height="20"> TypeScript</span>
+<span><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TSX" width="20" height="20"> TSX</span>
+<span><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="JSX" width="20" height="20"> JSX</span>
 
 ## Technologies
-- Kafka
-- Docker
-- AWS
-- Selenium
-- JUnit
-- Postman
-- Jira
-- MySQL
-- MongoDB
+<span><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kafka/kafka-original-wordmark.svg" alt="Kafka" width="20" height="20"> Kafka</span>
+<span><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" width="20" height="20"> Docker</span>
+<span><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS" width="20" height="20"> AWS</span>
+<span><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/selenium/selenium-original.svg" alt="Selenium" width="20" height="20"> Selenium</span>
+<span><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/junit/junit-original.svg" alt="JUnit" width="20" height="20"> JUnit</span>
+<span><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postman/postman-original.svg" alt="Postman" width="20" height="20"> Postman</span>
+<span><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jira/jira-original-wordmark.svg" alt="Jira" width="20" height="20"> Jira</span>
+<span><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="20" height="20"> MySQL</span>
+<span><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="20" height="20"> MongoDB</span>
 
 ## Frameworks
-- ![Ionic](https://raw.githubusercontent.com/devicons/devicon/master/icons/ionic/ionic-original.svg) Ionic
-- ![Angular](https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg) Angular
-- ![React](https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg) React
-- ![Bootstrap](https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg) Bootstrap
-- ![SpringBoot](https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg) SpringBoot
+<span><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ionic/ionic-original.svg" alt="Ionic" width="20" height="20"> Ionic</span>
+<span><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg" alt="Angular" width="20" height="20"> Angular</span>
+<span><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="20" height="20"> React</span>
+<span><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg" alt="Bootstrap" width="20" height="20"> Bootstrap</span>
+<span><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" alt="SpringBoot" width="20" height="20"> SpringBoot</span>
   
 
 <!--
