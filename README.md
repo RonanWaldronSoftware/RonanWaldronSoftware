@@ -13,7 +13,7 @@
 <span><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TSX" width="20" height="20"> TSX</span>
 <span><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="JSX" width="20" height="20"> JSX</span>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?RonanWaldronSoftware=RonanWaldronSoftware&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RonanWaldronSoftware&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
 ## Technologies
