@@ -32,7 +32,7 @@
 
 ## Languages
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&labelColor=black&logo=c-sharp&logoColor=239120)
-![C++]
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&labelColor=black&logo=cplusplus&logoColor=00599C)
 ![C]
 ![Java]
 ![Python]
