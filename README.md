@@ -13,6 +13,9 @@
 <span><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TSX" width="20" height="20"> TSX</span>
 <span><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="JSX" width="20" height="20"> JSX</span>
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?RonanWaldronSoftware=RonanWaldronSoftware&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+
 ## Technologies
 <span><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kafka/kafka-original-wordmark.svg" alt="Kafka" width="20" height="20"> Kafka</span>
 <span><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" width="20" height="20"> Docker</span>
