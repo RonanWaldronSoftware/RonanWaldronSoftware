@@ -43,7 +43,7 @@
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-## Technologies
+<br/>
 ![Kafka](https://img.shields.io/badge/Kafka-231F20?style=for-the-badge&labelColor=black&logo=apache-kafka&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&labelColor=black&logo=docker&logoColor=2496ED)
 ![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&labelColor=black&logo=selenium&logoColor=43B02A)
@@ -55,7 +55,7 @@
 ![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&labelColor=black&logo=amazon-aws&logoColor=FF9900)
 
 
-## Frameworks
+<br/>
 ![Ionic](https://img.shields.io/badge/Ionic-3880FF?style=for-the-badge&labelColor=black&logo=ionic&logoColor=3880FF)
 ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&labelColor=black&logo=angular&logoColor=DD0031)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&labelColor=black&logo=bootstrap&logoColor=7952B3)
