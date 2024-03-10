@@ -8,7 +8,7 @@
 
 <div align="center">
  
- 🔭 Currently working on **a comprehensive rental application**
+ 🔭 Currently working on **a comprehensive property rental application**
  
  🌱 I’m currently learning **Docker, Supabase, AWS**
 
