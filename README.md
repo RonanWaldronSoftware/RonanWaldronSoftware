@@ -10,7 +10,7 @@
 
 <samp>
 <br>
-    「 Currently working on a property rental & farm management applications 」
+    「 」
     <br>
     <br>
 </samp>
